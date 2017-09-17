@@ -1,37 +1,48 @@
-## Welcome to GitHub Pages
+# bogsnork's links
 
-You can use the [editor on GitHub](https://github.com/bogsnork/bogsnork.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Table of Contents
+1. [Introduction to R](#introR)
+2. [Data Import](#import)
+3. [Data Wrangling](#wrangling)
+4. [Data Visualisation](#dataviz)
+5. [Data Analysis](#analysis)
+  * [Hypothesis testing](#hyptest)
+  * [Linear models](#linmods)
+  * [Machine learning](#ml)
+6. [Workflows](#workflow)
+7. [Markdown](#md)
+8. [Shiny](#shiny)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Introduction to R <a name="introR"></a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Data Import <a name="import"></a>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Data Wrangling <a name="wrangling"></a>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## Data Visualisation <a name="dataviz"></a>
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Data Analysis <a name="analysis"></a>
 
-### Jekyll Themes
+### Hypothesis testing <a name="hyptest"></a>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bogsnork/bogsnork.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Linear models <a name="linmods"></a>
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+### Machine learning <a name="ml"></a>
+|### Machine learning | comments |
+|----|----|
+|[Neural Networks: How they work, and how to train them in R](http://blog.revolutionanalytics.com/2017/03/neural-networks-r.htm)
+
+## Workflows <a name="workflow"></a>
+
+
+## Markdown <a name="md"></a>
+
+
+## Shiny <a name="shiny"></a>
