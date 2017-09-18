@@ -6,11 +6,8 @@
 3. [Data Wrangling](#wrangling)
 4. [Data Visualisation](#dataviz)
 5. [Data Analysis](#analysis)
-  * [Hypothesis testing](#hyptest)
-  * [Linear models](#linmods)
-  * [Machine learning](#ml)
 6. [Workflows](#workflow)
-7. [Markdown](#md)
+7. [Presentation](#pres)
 8. [Shiny](#shiny)
 
 
@@ -27,22 +24,25 @@
 
 
 ## Data Analysis <a name="analysis"></a>
-
-### Hypothesis testing <a name="hyptest"></a>
-
-
-### Linear models <a name="linmods"></a>
-
-
-### Machine learning <a name="ml"></a>
-|### Machine learning | comments |
+|Hypothesis testing | comments |
 |----|----|
-|[Neural Networks: How they work, and how to train them in R](http://blog.revolutionanalytics.com/2017/03/neural-networks-r.htm)
+
+|Linear models | comments |
+|----|----|
+
+
+|Machine learning | comments |
+|----|----|
+|[Neural Networks: How they work, and how to train them in R](http://blog.revolutionanalytics.com/2017/03/neural-networks-r.html)| Introductory video|
+
 
 ## Workflows <a name="workflow"></a>
 
 
-## Markdown <a name="md"></a>
+## Presentation <a name="pres"></a>
 
+|resource | comments |
+|----|----|
+|[huxtable: Simply Create LaTeX and HTML Tables](https://cran.r-project.org/package=huxtable)|Creates HTML and LaTeX tables. Provides similar functionality to 'xtable', but does more, with a simpler interface.|
 
 ## Shiny <a name="shiny"></a>
